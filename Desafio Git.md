@@ -36,7 +36,8 @@ Além disso pude estudar e entender seus diferentes desafios para manter a segur
 4. Ransowares;
 5. DDoS;
 6. Ataques de Engenharia Social;
-7. 
+
+Com isto, também pude estudar entender estratégios 
 
 # Aula 07 - Redes de Computadores
 
@@ -65,6 +66,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzIyODc2MiwtMTMxODQ2NTYwNywxNz
+eyJoaXN0b3J5IjpbMTE0OTg2MTI5MiwtMTMxODQ2NTYwNywxNz
 MyNTA1NDg4LDExMDgxNzM3Ml19
 -->
