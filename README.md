@@ -51,9 +51,9 @@ Nessa aula aprendi sobre as constantes mudanças do cenário digital e sua const
 Nesta aula pude aprender acerca do uso de criptografias e protocolos para proteção de serviços na web, além disso discutimos acerca da funcionalidade do protocolo HTTPS e certificados TLS/SSL implementados a sites e sistemas web.
 
 # Aula 10 - Tendências e desafios na Redes Modernas
-Nesta aula tive a oportunidade de estudar acerca de novas tendências nas redes modernas, como Blockchains 
+Nesta aula tive a oportunidade de estudar acerca de novas tendências nas redes modernas, como Blockchains e IoTs, tecnologias que contribuem para a criação de uma web 3.0, ou seja, uma internet mais descentralizada, sem intermediadores entre as relações como compra e venda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA5NjkxMzIsMTU2OTAxNDA4OSw1Nj
+eyJoaXN0b3J5IjpbLTE4MzMzOTUwNjEsMTU2OTAxNDA4OSw1Nj
 g0ODUwNzUsLTU2NjM3MTkwMCw0MTExNzQxOTksOTc2MTQ4OTc3
 XX0=
 -->
