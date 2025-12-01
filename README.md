@@ -54,9 +54,9 @@ Nesta aula pude aprender acerca do uso de criptografias e protocolos para prote�
 Nesta aula tive a oportunidade de estudar acerca de novas tendências nas redes modernas, como Blockchains e IoTs, tecnologias que contribuem para a criação de uma web 3.0, ou seja, uma internet mais descentralizada, sem intermediadores entre as relações como compra e venda, além disso, também discutimos como essas tecnologias podem ser usadas no nosso dia-a-dia (E quais desafios de segurança elas apresentam) e como o advento da IA nos afeta nos dias atuais.
 
 # Atualmente
-Atualmente estamos a estudar a tecnologia de versionamento de código Git, partindo dos seus conceitos como PULL, PUS
+Atualmente estamos a estudar a tecnologia de versionamento de código Git, partindo dos seus conceitos como PULL, PUSH, BRANCHES, CHECKOUT e sua aplicação na prática.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NjE3MDI2LDE1NjkwMTQwODksNTY4ND
-g1MDc1LC01NjYzNzE5MDAsNDExMTc0MTk5LDk3NjE0ODk3N119
-
+eyJoaXN0b3J5IjpbLTEwNTY5OTQ5ODYsMTU2OTAxNDA4OSw1Nj
+g0ODUwNzUsLTU2NjM3MTkwMCw0MTExNzQxOTksOTc2MTQ4OTc3
+XX0=
 -->
