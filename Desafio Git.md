@@ -24,9 +24,9 @@ Na aula de DNS pude entender a importância desse protocolo para a comunicação
 # Aula 06 - Arquitetura na Internet
 
 Na aula 06 pude estudar o que são e como se organizam as diferentes aquiteturas de rede como:
-1. Backbones;
+1. Backbones: ;
 2. IXPs;
-Bem como seus diferentes desafios para manter a segurança em seus sistemas ao pesquisar e es
+Bem como seus diferentes desafios para manter a segurança em seus sistemas ao pesquisar e estudar sobre diferentes tipos de ataques
 
 # Aula 07 - Redes de Computadores
 
@@ -55,6 +55,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI1MTEwOTgsMTczMjUwNTQ4OCwxMT
-A4MTczNzJdfQ==
+eyJoaXN0b3J5IjpbMTczNjI1NzAsMTczMjUwNTQ4OCwxMTA4MT
+czNzJdfQ==
 -->
