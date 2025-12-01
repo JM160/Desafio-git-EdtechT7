@@ -41,20 +41,11 @@ Com isto, também pude estudar entender estratégias para mitigar e evitar tais 
 
 # Aula 07 - Redes de Computadores
 
-Nesta aula passei a ter uma compreensão mais abrangente sobre as redes de computadores e suas localizações geográficas, bem como suas aplicações específicas
+Nesta aula passei a ter uma compreensão mais abrangente sobre as redes de computadores e suas localizações geográficas, bem como suas aplicações específicas e seus tipos de redes e arquitetura.
 
 
 # Aula 08 - Segurança de Redes
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
-
-There are two types of synchronization and they can complement each other:
-
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
 # Aula 09 - Segurança na Web
 
@@ -66,6 +57,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4NDg1MDc1LC01NjYzNzE5MDAsNDExMT
-c0MTk5LDk3NjE0ODk3N119
+eyJoaXN0b3J5IjpbMTU2OTAxNDA4OSw1Njg0ODUwNzUsLTU2Nj
+M3MTkwMCw0MTExNzQxOTksOTc2MTQ4OTc3XX0=
 -->
