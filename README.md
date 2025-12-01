@@ -48,15 +48,14 @@ Nesta aula passei a ter uma compreensão mais abrangente sobre as redes de compu
 Nessa aula aprendi sobre as constantes mudanças do cenário digital e sua constante evolução, além disso, discutimos acerca dos ataques mais comuns às redes de computadores e como funcionam, e de estratégias eficazes para se proteger dos mesmos.
 
 # Aula 09 - Segurança na Web
-Nesta aula pude aprender acerca do uso de criptografias e protocolos para proteção de serviços na web, além disso discutimos acerca da funcionalidade do protocolo HTTPS e certificados TLS/SSL
+Nesta aula pude aprender acerca do uso de criptografias e protocolos para proteção de serviços na web, além disso discutimos acerca da funcionalidade do protocolo HTTPS e certificados TLS/SSL implementados a sites e sistemas web.
 
 # Aula 10 - Tendências e desafios na Redes Modernas
 
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTk3NzI3NSwxNTY5MDE0MDg5LDU2OD
-Q4NTA3NSwtNTY2MzcxOTAwLDQxMTE3NDE5OSw5NzYxNDg5Nzdd
-fQ==
+eyJoaXN0b3J5IjpbLTk2NDc2MTA1LDE1NjkwMTQwODksNTY4ND
+g1MDc1LC01NjYzNzE5MDAsNDExMTc0MTk5LDk3NjE0ODk3N119
+
 -->
