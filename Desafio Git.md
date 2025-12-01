@@ -23,7 +23,10 @@ Na aula de DNS pude entender a importância desse protocolo para a comunicação
 
 # Aula 06 - Arquitetura na Internet
 
-Na aula 06 pude estudar
+Na aula 06 pude estudar o que são e como se organizam as diferentes aquiteturas de rede como:
+1. Backbones;
+2. IXPs;
+Bem como seus diferentes des
 
 # Aula 07 - Redes de Computadores
 
@@ -52,5 +55,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjUwNTQ4OCwxMTA4MTczNzJdfQ==
+eyJoaXN0b3J5IjpbLTg3MTMxNDc0NCwxNzMyNTA1NDg4LDExMD
+gxNzM3Ml19
 -->
