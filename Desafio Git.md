@@ -37,7 +37,7 @@ Além disso pude estudar e entender seus diferentes desafios para manter a segur
 5. DDoS;
 6. Ataques de Engenharia Social;
 
-Com isto, também pude estudar entender estratégias para mitigar e evitar tais ataques, como configuração de Firewalls, utilização de Criptografias, uso de filtragem 
+Com isto, também pude estudar entender estratégias para mitigar e evitar tais ataques, como configuração de Firewalls, utilização de Criptografias, uso de Filtragem de Tráfego e QoS.
 
 # Aula 07 - Redes de Computadores
 
@@ -66,6 +66,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA5MzQ4MTgsLTEzMTg0NjU2MDcsMT
-czMjUwNTQ4OCwxMTA4MTczNzJdfQ==
+eyJoaXN0b3J5IjpbOTc2MTQ4OTc3LC0xMzE4NDY1NjA3LDE3Mz
+I1MDU0ODgsMTEwODE3MzcyXX0=
 -->
