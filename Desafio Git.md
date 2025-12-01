@@ -4,7 +4,9 @@ Este documento foi elaborado com o intuito de construir um resumo sobre nossas a
 
 # Aula 01 - Conceitos fundamentais de Redes de Computadores
 
-A primeira aula funcionou como uma introdução ao sistema de ensino do Alpha Ed-Tech, nela conhecemos o professor Kenji Taniguchi e os principais conceitos do que são as Redes de Computadores pelo mundo e qual a sua importância, mais do que o conteúdo, foi aqui que aprendi a disciplina que eu deveria nutrir para me manter no projeto. 
+A primeira aula funcionou como uma introdução ao sistema de ensino do Alpha Ed-Tech, nela conhecemos o professor Kenji Taniguchi e os principais conceitos do que são as Redes de Computadores pelo mundo e qual a sua importância, além de suas topologias, como:
+1. Mesh: Onde todos os dispositivos estão totalmente conectados entre si em uma malha (Full-Mesh) 
+mais do que o conteúdo, foi aqui que aprendi a disciplina que eu deveria nutrir para me manter no projeto. 
 
 # Aula 02 - Protocolos de comunicação em Redes
 
@@ -24,7 +26,7 @@ Na aula de DNS pude entender a importância desse protocolo para a comunicação
 # Aula 06 - Arquitetura na Internet
 
 Na aula 06 pude estudar o que são e como se organizam as diferentes aquiteturas de rede como:
-1. Backbones: ;
+1. Backbones: É uma infraestrutura q;
 2. IXPs;
 Bem como seus diferentes desafios para manter a segurança em seus sistemas ao pesquisar e estudar sobre diferentes tipos de ataques
 
@@ -55,6 +57,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjI1NzAsMTczMjUwNTQ4OCwxMTA4MT
-czNzJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTAxODAyODgsMTczMjUwNTQ4OCwxMT
+A4MTczNzJdfQ==
 -->
