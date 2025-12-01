@@ -6,7 +6,8 @@ Este documento foi elaborado com o intuito de construir um resumo sobre nossas a
 
 A primeira aula funcionou como uma introdução ao sistema de ensino do Alpha Ed-Tech, nela conhecemos o professor Kenji Taniguchi e os principais conceitos do que são as Redes de Computadores pelo mundo e qual a sua importância, além de suas topologias, como:
 1. Mesh: Onde todos os dispositivos estão totalmente conectados entre si em uma malha (Full-Mesh) ou então estão conectados parcialmente (Half-Mesh);
-2. Barramento: Onde todo os dispositivos estão conectados a um único cabo central que coordena suas comunicações (Backbone), sendo que cada dispositivo possui 
+2. Barramento: Onde todo os dispositivos estão conectados a um único cabo central que coordena suas comunicações (Backbone), sendo que cada dispositivo possui sua vez de se comunicar.
+
 Mais do que o conteúdo, foi aqui que aprendi a disciplina que eu deveria nutrir para me manter no projeto. 
 
 # Aula 02 - Protocolos de comunicação em Redes
@@ -58,6 +59,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg4NjAxNDQsMTczMjUwNTQ4OCwxMT
-A4MTczNzJdfQ==
+eyJoaXN0b3J5IjpbLTc2MTU0NTIwMCwxNzMyNTA1NDg4LDExMD
+gxNzM3Ml19
 -->
