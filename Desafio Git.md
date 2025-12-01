@@ -32,7 +32,7 @@ Na aula 06 pude estudar o que são e como se organizam as diferentes aquiteturas
 2. IXPs: São chamados de Pontos de Troca de Tráfego e possuem um papel fundamental para a infraestrutura da internet, por se tratarem de uma instalação física onde ISPs e outros tipos de provedores se conectam para trocar tráfego de dados, por isso, esta arquitetura é responsável por melhorar significativamente a eficiência do roteamento de dados e o desempenho da rede;
 
 Além disso pude estudar e entender seus diferentes desafios para manter a segurança em seus sistemas ao pesquisar e estudar sobre diferentes tipos de ataques feitos a essas arquiteturas, como:
-
+1. 
 
 # Aula 07 - Redes de Computadores
 
@@ -61,6 +61,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTgwNjMyMCwxNzMyNTA1NDg4LDExMD
-gxNzM3Ml19
+eyJoaXN0b3J5IjpbLTEzMTg0NjU2MDcsMTczMjUwNTQ4OCwxMT
+A4MTczNzJdfQ==
 -->
