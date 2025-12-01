@@ -41,7 +41,7 @@ Com isto, também pude estudar entender estratégias para mitigar e evitar tais 
 
 # Aula 07 - Redes de Computadores
 
-Nesta aula passei a ter uma compreensão mais abrangente sobre as redes de computadores e suas localizações
+Nesta aula passei a ter uma compreensão mais abrangente sobre as redes de computadores e suas localizações geográficas
 
 
 # Aula 08 - Segurança de Redes
@@ -66,5 +66,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMTc0MTk5LDk3NjE0ODk3N119
+eyJoaXN0b3J5IjpbLTU2NjM3MTkwMCw0MTExNzQxOTksOTc2MT
+Q4OTc3XX0=
 -->
