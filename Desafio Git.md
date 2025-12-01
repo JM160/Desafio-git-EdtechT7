@@ -19,7 +19,7 @@ No quarto encontro pude entender o que são e como funcionam os serviços na Web
 
 # Aula 05 - DNS (Domain Name System)
 
-Na aula de DNS pude entender a importância desse protocolo para a comunicação e funcionamento eficaz de sistemas web, além disso pude estudar tipos de ataques que exploram minuciosamente falhas nesse protocolo e entender como mitigá-los ou evitá-los.
+Na aula de DNS pude entender a importância desse protocolo para a comunicação e funcionamento eficaz de sistemas web, além disso pude estudar tipos de ataques que exploram minuciosamente falhas como Envenenamentos de Cache, Sequestros de DNS, DDoS etc. Be
 
 # Aula 06 - Arquitetura na Internet
 
@@ -52,5 +52,5 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODE3MzcyXX0=
+eyJoaXN0b3J5IjpbNzMwNDczMjQ5LDExMDgxNzM3Ml19
 -->
