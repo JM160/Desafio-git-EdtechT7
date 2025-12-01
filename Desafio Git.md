@@ -48,8 +48,7 @@ Nesta aula passei a ter uma compreensão mais abrangente sobre as redes de compu
 Nessa aula aprendi sobre as constantes mudanças do cenário digital e sua constante evolução, além disso, discutimos acerca dos ataques mais comuns às redes de computadores e como funcionam, e de estratégias eficazes para se proteger dos mesmos.
 
 # Aula 09 - Segurança na Web
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+Nesta aula pude aprender acerca do uso de criptografias e protocolos para proteção de serviços na web, além disso discutimos acerca da funcionalidade de p
 
 # Aula 10 - Tendências e desafios na Redes Modernas
 
@@ -57,7 +56,7 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTYzNzIyLDE1NjkwMTQwODksNTY4ND
-g1MDc1LC01NjYzNzE5MDAsNDExMTc0MTk5LDk3NjE0ODk3Nywt
-MTMxODQ2NTYwNywxNzMyNTA1NDg4LDExMDgxNzM3Ml19
+eyJoaXN0b3J5IjpbLTg1MjkzMTYxMCwxNTY5MDE0MDg5LDU2OD
+Q4NTA3NSwtNTY2MzcxOTAwLDQxMTE3NDE5OSw5NzYxNDg5Nzcs
+LTEzMTg0NjU2MDcsMTczMjUwNTQ4OCwxMTA4MTczNzJdfQ==
 -->
