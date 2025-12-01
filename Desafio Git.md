@@ -23,7 +23,7 @@ Na aula de DNS pude entender a importância desse protocolo para a comunicação
 
 # Aula 06 - Arquitetura na Internet
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+Na aula 06 pude estudar
 
 # Aula 07 - Redes de Computadores
 
@@ -52,5 +52,5 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mjk5MTU1OSwxMTA4MTczNzJdfQ==
+eyJoaXN0b3J5IjpbMTczMjUwNTQ4OCwxMTA4MTczNzJdfQ==
 -->
