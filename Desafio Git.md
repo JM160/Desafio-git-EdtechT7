@@ -45,7 +45,7 @@ Nesta aula passei a ter uma compreensão mais abrangente sobre as redes de compu
 
 
 # Aula 08 - Segurança de Redes
-Nessa aula aprendi sobre as constantes mudanças do cenário digital e sua constante evolução, além disso, discutimos acerca dos ataques mais comuns às redes de computadores
+Nessa aula aprendi sobre as constantes mudanças do cenário digital e sua constante evolução, além disso, discutimos acerca dos ataques mais comuns às redes de computadores e como funcionam 
 
 # Aula 09 - Segurança na Web
 
@@ -57,7 +57,7 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUwMjAzNjcsMTU2OTAxNDA4OSw1Nj
+eyJoaXN0b3J5IjpbLTIwMTQzMTI4MDgsMTU2OTAxNDA4OSw1Nj
 g0ODUwNzUsLTU2NjM3MTkwMCw0MTExNzQxOTksOTc2MTQ4OTc3
 LC0xMzE4NDY1NjA3LDE3MzI1MDU0ODgsMTEwODE3MzcyXX0=
 -->
