@@ -41,7 +41,7 @@ Com isto, também pude estudar entender estratégias para mitigar e evitar tais 
 
 # Aula 07 - Redes de Computadores
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Nesta aula passei a ter uma compreensão mais a
 
 
 # Aula 08 - Segurança de Redes
@@ -66,5 +66,5 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MTQ4OTc3XX0=
+eyJoaXN0b3J5IjpbMTI5MTc0MDY4OCw5NzYxNDg5NzddfQ==
 -->
