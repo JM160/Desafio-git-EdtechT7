@@ -28,8 +28,8 @@ Na aula de DNS pude entender a importância desse protocolo para a comunicação
 # Aula 06 - Arquitetura na Internet
 
 Na aula 06 pude estudar o que são e como se organizam as diferentes aquiteturas de rede como:
-1. Backbones: É uma infraestrutura q;
-2. IXPs;
+1. Backbones: É uma infraestrutura de rede de alta velocidade que conecta diferentes redes umas as outras, funcionando como uma "espinha dorsal";
+2. IXPs: ;
 Bem como seus diferentes desafios para manter a segurança em seus sistemas ao pesquisar e estudar sobre diferentes tipos de ataques
 
 # Aula 07 - Redes de Computadores
@@ -59,6 +59,6 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTU0NTIwMCwxNzMyNTA1NDg4LDExMD
-gxNzM3Ml19
+eyJoaXN0b3J5IjpbNDAwNTY1NDk5LDE3MzI1MDU0ODgsMTEwOD
+E3MzcyXX0=
 -->
